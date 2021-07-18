@@ -1,0 +1,13 @@
+body {
+    background-color: brown;
+    padding-top: 10%;
+}
+
+.btn {
+    margin: 2%;
+}
+
+body > p {
+    margin: 2%;
+    color: white;
+}
